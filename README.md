@@ -1,6 +1,6 @@
-- Hi, I am Mikis!
-- I am a Cisco firewall specialist with a part-time interest in Computer Networking, Linux, TCP/IP, Wireshark, any few other technologies.
-- You can read about me at https://pl.linkedin.com/in/mikiszaf
+Hi, I’m Mikis, a Cisco firewall specialist interested in computer networking, Linux, TCP/IP, Wireshark, and other technologies.
+
+Learn more about me on [LinkedIn](https://pl.linkedin.com/in/mikiszaf).
 
 
 <!---

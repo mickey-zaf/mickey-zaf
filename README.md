@@ -1,7 +1,6 @@
 - Hi, I am Mikis!
-- I am interested in Networking, Python and lately in Frontend technologies
-- I am currently learning JS
-- How to reach me: mickey_zaf@yahoo.co.uk
+- You can read about me at https://pl.linkedin.com/in/mikiszaf
+
 
 <!---
 mickey-zaf/mickey-zaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
